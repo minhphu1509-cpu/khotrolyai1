@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import { AppProvider, useApp } from './contexts/AppContext';
+import { AppProvider, useApp } from './contexts/AIContext';
 import { Layout } from './components/Layout';
 import { Welcome } from './pages/Welcome';
 import { Marketplace } from './pages/Marketplace';
